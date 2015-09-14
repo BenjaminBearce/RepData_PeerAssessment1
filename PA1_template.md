@@ -1,45 +1,32 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
+# Reproducible Research: Peer Assessment 1
 
 
 ## Loading and preprocessing the data
 
-```{r echo = TRUE}
-#CODE TEST
 
+```r
+#CODE
 ```
 
 ## What is mean total number of steps taken per day?
 
-```{r echo = TRUE}
-#CODE TEST
 
+```r
+#CODE
 ```
 
 ## What is the average daily activity pattern?
 
-```{r echo = TRUE}
-#CODE TEST
 
+```r
+#CODE
 ```
 
 ## Imputing missing values
 
-```{r echo = TRUE}
-#CODE TEST
 
+```r
+#CODE
 ```
 
 ## Are there differences in activity patterns between weekdays and weekends?
-
-```{r echo = TRUE}
-#CODE TEST
-
-```
-
-
-
